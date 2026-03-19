@@ -13,9 +13,7 @@ https://trendingrepos.glup3.dev/?time=daily
 ### 国内大模型地址
 - [清华智普](https://open.bigmodel.cn/)，[智普购买地址](https://bigmodel.cn/glm-coding?utm_source=bigModel&utm_medium=Experience-Center&utm_content=glm-code&utm_campaign=Platform_Ops&_channel_track_key=8IpDsEJ5)
 - [kimi](https://platform.moonshot.cn/  )
-- [minimax](https://www.minimaxi.com/)
-- [minimax海外](https://www.minimax.io/)
-	 
+- [minimax](https://www.minimaxi.com/)，[minimax海外](https://www.minimax.io/)
 
 ### Claude Code、Cursor、TRAE，究竟谁最强？
 - https://www.zhihu.com/question/1946791222762014096/answer/2004939008887787533

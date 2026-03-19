@@ -30,6 +30,9 @@ https://trendingrepos.glup3.dev/?time=daily
   - skills.sh：Vercel做的Skills排行榜，按安装量排序，一目了然
   - skillsmp.com：目前最大的Skills商店，6万+ Skills
   - awesome-agent-skills（GitHub）：libukai维护的终极指南，分类清晰，持续更新
+  - skills.sh：Vercel做的Skills排行榜，按安装量排序，一目了然
+  - skillsmp.com：目前最大的Skills商店，6万+ Skills
+  - awesome-agent-skills（GitHub）：libukai维护的终极指南，分类清晰，持续更新
   - oh-my-claudecode:
      - https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/README.zh.md
      - https://zhuanlan.zhihu.com/p/1999805325692392140

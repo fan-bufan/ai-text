@@ -1,10 +1,8 @@
 # ai-text
 My AI Note.
 
-//使用claude opus的地方
-https://cc.guda.studio/
-
-claude mcp add grok-search -s user   -e GROK_API_URL=https://mcp.tavily.com/mcp   -e TAVILY_API_KEY=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   -- uvx --from "git+https://github.com/GuDaStudio/GrokSearch@grok-with-tavily" grok-search
+###使用claude opus的地方
+```https://cc.guda.studio/```
 
 https://github.com/flutter/skills/tree/generate-skills
 

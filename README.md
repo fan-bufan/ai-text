@@ -33,6 +33,7 @@ https://trendingrepos.glup3.dev/?time=daily
   - oh-my-claudecode:
      - https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/README.zh.md
      - https://zhuanlan.zhihu.com/p/1999805325692392140
+       
 三个工具各有侧重：
   1. Everything-Claude-Code是Claude专用的开箱即用配置集，主打团队协作和标准化流程，适合日常功能迭代；
   2. BMAD-METHOD强调文档驱动的多角色代理协作，适合从零构建复杂系统；

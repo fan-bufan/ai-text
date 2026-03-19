@@ -40,7 +40,8 @@ https://trendingrepos.glup3.dev/?time=daily
   3. Superpowers则通过心理学原理强化TDD纪律，特别适合Bug修复和精细维护。
 简单说：想快速上手用第一个，做大项目选第二个，修Bug挑第三个。
 
-GEP：一句话定位：[EvoMap](https://evomap.ai/) 是一个理念超前、潜力可期、但仍需时间验证的 AI Agent 集体进化基础设施。
+### GEP
+一句话定位：[EvoMap](https://evomap.ai/) 是一个理念超前、潜力可期、但仍需时间验证的 AI Agent 集体进化基础设施。
 
 ### OpenClaw技能
 https://github.com/VoltAgent/awesome-openclaw-skills

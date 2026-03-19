@@ -1,19 +1,24 @@
 # ai-text
 My AI Note.
 
-###使用claude opus的地方###
+### 使用claude opus的地方
 ```https://cc.guda.studio/```
 
+### flutter skill
 https://github.com/flutter/skills/tree/generate-skills
 
-GitHub 上最受欢迎的代码库：
+### GitHub 上最受欢迎的代码库：
 https://trendingrepos.glup3.dev/?time=daily
 
-清华智普：https://open.bigmodel.cn/
-https://bigmodel.cn/glm-coding?utm_source=bigModel&utm_medium=Experience-Center&utm_content=glm-code&utm_campaign=Platform_Ops&_channel_track_key=8IpDsEJ5
-kimi：https://platform.moonshot.cn/
+### 国内大模型地址
+清华智普：https://open.bigmodel.cn/  
+
+https://bigmodel.cn/glm-coding?utm_source=bigModel&utm_medium=Experience-Center&utm_content=glm-code&utm_campaign=Platform_Ops&_channel_track_key=8IpDsEJ5  
+
+kimi：https://platform.moonshot.cn/  
+
 minimax：https://www.minimaxi.com/
-	https://www.minimax.io/
+	https://www.minimax.io/  
 
 Claude Code、Cursor、TRAE，究竟谁最强？
 https://www.zhihu.com/question/1946791222762014096/answer/2004939008887787533

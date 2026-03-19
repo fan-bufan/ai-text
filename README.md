@@ -21,7 +21,7 @@ https://trendingrepos.glup3.dev/?time=daily
 
 ### Skills 和 MCP 并不是一类东西。
 - MCP解决的是连接问题，它决定 Agent 能访问哪些外部系统、数据源和工具。
-  - https://www.modelscope.cn/mcp?hosted=1&page=1
+  - [魔塔社区](https://www.modelscope.cn/mcp?hosted=1&page=1)
   - https://github.com/yzfly/Awesome-MCP-ZH
 - Skills是定义在拿到这些工具之后，应该如何规范、稳定地使用它们。
   - skills.sh：Vercel做的Skills排行榜，按安装量排序，一目了然

@@ -3,6 +3,8 @@ My AI Note.
 
 ### [Vibe Coding 指南](https://github.com/2025Emma/vibe-coding-cn)
 
+### [向量引擎(AI中转站)，稳定，小贵](https://api.vectorengine.ai)
+
 ### 使用claude opus的地方
 ```https://cc.guda.studio/```
 

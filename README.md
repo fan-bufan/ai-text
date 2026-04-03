@@ -9,7 +9,9 @@ My AI Note.
 ```https://cc.guda.studio/```
 
 ### flutter skill
-https://github.com/flutter/skills/tree/generate-skills
+- https://github.com/flutter/skills/tree/generate-skills
+- https://github.com/evanca/flutter-ai-rules
+- https://github.com/flutter/skills
 
 ### GitHub 上最受欢迎的代码库：
 https://trendingrepos.glup3.dev/?time=daily

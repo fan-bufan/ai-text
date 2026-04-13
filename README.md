@@ -14,6 +14,8 @@ My AI Note.
 - https://github.com/flutter/skills
 - https://playbooks.com/for/flutter
 
+### [OpenHarmony-Flutter](https://atomgit.com/OpenHarmony-Flutter/skills)
+
 ### GitHub 上最受欢迎的代码库：
 https://trendingrepos.glup3.dev/?time=daily
 
